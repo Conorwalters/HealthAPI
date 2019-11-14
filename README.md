@@ -20,5 +20,6 @@ To build the SQL Database run the following commands:
 
 To log-in to SQL Database use
 
-Name: sa
+Database=sql-serve
+UID= sa
 Password: SqlExpress!
